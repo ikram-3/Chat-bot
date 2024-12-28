@@ -1,7 +1,3 @@
-Here’s a professional description for your GitHub repository that highlights the features and functionality of your project:
-
----
-
 ### **Generative AI Chatbot with Streamlit**
 This repository contains a Streamlit-based chatbot powered by Google's Gemini 1.5 model, providing real-time AI-generated responses with a sleek typing effect. The project is designed for intuitive interaction, delivering responses dynamically in a visually appealing format.
 
@@ -19,7 +15,7 @@ This repository contains a Streamlit-based chatbot powered by Google's Gemini 1.
 ### **Installation Instructions**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/ikram-3/chat-bot.git
    ```
 2. Install the required Python packages:
    ```bash
@@ -54,6 +50,3 @@ Contributions are welcome! Feel free to fork this repository, create a feature b
 ### **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Replace `your-username` and `repository-name` with your GitHub username and repository name. Let me know if you'd like me to refine this further or provide additional content!
